@@ -1,0 +1,6 @@
+
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÑ™…8à®³Ù1
+L
+java:S1197"*Move the array designators [] to the type.(Ö…ÿıùÿÿÿÿ8âó¯Ù1
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(°ä¾8âó¯Ù1
